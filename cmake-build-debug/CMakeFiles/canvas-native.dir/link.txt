@@ -1,1 +1,1 @@
-/usr/bin/c++    -std=c++11 -O0 -g -g   CMakeFiles/canvas-native.dir/src/main.cpp.o  -o canvas-native ../libs/libv8_base.a ../libs/libv8_libbase.a ../libs/libv8_libplatform.a -ldl -pthread -lrt 
+/usr/bin/c++    -std=c++11 -O0 -g -g   CMakeFiles/canvas-native.dir/src/main.cpp.o  -o canvas-native -ldl -pthread -lrt libv8.so libv8_libbase.so libv8_libplatform.so libicuuc.so libicui18n.so 
