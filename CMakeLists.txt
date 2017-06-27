@@ -17,8 +17,11 @@ list(REMOVE_DUPLICATES INCLUDE_DIRS)
 
 
 set(CMAKE_CXX_STANDARD 11)
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -O0 -g")
 set( ADDITIONAL_LIBS
+        ${CMAKE_SOURCE_DIR}/libs/libv8_base.a
+        ${CMAKE_SOURCE_DIR}/libs/libv8_libbase.a
+        ${CMAKE_SOURCE_DIR}/libs/libv8_libplatform.a
         -ldl
         -pthread
         -lrt
@@ -27,4 +30,4 @@ set( ADDITIONAL_LIBS
 include_directories(${INCLUDE_DIRS})
 
 add_executable(canvas-native ${SOURCES}  ${SOURCES_C})
-target_link_libraries(canvas-native ${ADDITIONAL_LIBS} )
+target_link_libraries(canvas-native ${ADDITIONAL_LIBS})

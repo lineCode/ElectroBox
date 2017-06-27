@@ -90,6 +90,9 @@ canvas__native_EXTERNAL_OBJECTS =
 
 canvas-native: CMakeFiles/canvas-native.dir/src/main.cpp.o
 canvas-native: CMakeFiles/canvas-native.dir/build.make
+canvas-native: ../libs/libv8_base.a
+canvas-native: ../libs/libv8_libbase.a
+canvas-native: ../libs/libv8_libplatform.a
 canvas-native: CMakeFiles/canvas-native.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/var/www/canvas-native/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable canvas-native"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/canvas-native.dir/link.txt --verbose=$(VERBOSE)
