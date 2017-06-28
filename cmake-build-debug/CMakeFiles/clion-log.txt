@@ -1,4 +1,0 @@
-/home/lucian/.clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /var/www/canvas-native
--- Configuring done
--- Generating done
--- Build files have been written to: /var/www/canvas-native/cmake-build-debug
