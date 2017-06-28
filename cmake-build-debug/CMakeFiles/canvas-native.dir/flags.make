@@ -6,5 +6,5 @@ CXX_FLAGS =  -std=c++11 -O0 -g -g   -std=gnu++11
 
 CXX_DEFINES = -DDEBUG
 
-CXX_INCLUDES = -I/var/www/canvas-native/include -I/var/www/canvas-native/include/v8/libplatform -I/var/www/canvas-native/include/v8 
+CXX_INCLUDES = -I/var/www/canvas-native/include 
 

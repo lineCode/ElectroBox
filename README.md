@@ -4,9 +4,9 @@ Canvas Native is a project that allows you to create multimedia applications on 
 
 ## Basic Roadmap
 
-- [ ] Integrate V8 to Project
-- [ ] Implement Custom V8 Platform
-- [ ] Integrate LibUv to Project
+- [ ] Integrate JavaScriptCore to Project
+- [ ] Implement Custom JavaScriptCore Platform
+- [ ] Integrate LibUv to JavaScriptCore
 - [ ] Implmenet SetTimeOut, SetInterval
 - [ ] Implement XMLHttpRequest
 - [ ] Implement WebGL Api

@@ -1,1 +1,1 @@
-/usr/bin/c++    -std=c++11 -O0 -g -g   CMakeFiles/canvas-native.dir/src/main.cpp.o  -o canvas-native -ldl -pthread -lrt libv8.so libv8_libbase.so libv8_libplatform.so libicuuc.so libicui18n.so 
+/usr/bin/c++    -std=c++11 -O0 -g -g   CMakeFiles/canvas-native.dir/src/main.cpp.o  -o canvas-native -ldl -pthread -lrt libChakraCore.so 
