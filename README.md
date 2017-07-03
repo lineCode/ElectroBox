@@ -1,21 +1,19 @@
-# Canvas Native
+# CobaltCore
 
-Canvas Native is a project that allows you to create multimedia applications on native platforms using a consistent developer experience based on Javascript, Canvas, and Webgl. The focus of Canvas Native is on the efficiency in the development of multimedia applications implementing web apis that you already know and like - learn once, write anywhere.
+CobaltCore is a project that allows you to create multimedia applications on native platforms using a consistent developer experience based on Javascript, Canvas, and Webgl. The focus of CobaltCore is on the efficiency in the development of multimedia applications implementing web apis that you already know and like - learn once, write anywhere.
 
 Platform RoadMap
 ---
-- [ ] Implement Android Platform
-- [ ] Implement Desktop Platform
-- [ ] Implement IOS Platform
+- [ ] Implement Android Platform(V8 Engine)
+- [ ] Implement Desktop Platform(V8 Engine)
+- [ ] Implement IOS Platform(JavaScriptCore Engine)
 
 Api RoadMap
 ---
-- [ ] Implement SetTimeOut, SetInterval
-- [ ] Implement XMLHttpRequest
-- [ ] Implement WebGL Api
-- [ ] Implement Canvas Api
-- [ ] Implement HTML5 Gamepad Api
-- [ ] Implement Input Events (Touch, Mouse, Keyboard)
-- [ ] Port To Android
-- [ ] Port to IOS
-- [ ] Port to Desktop(OSX, Windows, Linux)
+- [ ] Iiming Functions like SetTimeOut and SetInterval
+- [ ] XMLHttpRequest interface
+- [ ] Canvas Interface
+- [ ] WebGL 1 (GLES2) interface
+- [ ] WebGL 2 (GLEs3) interface
+- [ ] HTML5 Gamepad Api
+- [ ] Canvas input events (Touch, Mouse, Keyboard)
