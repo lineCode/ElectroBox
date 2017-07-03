@@ -13,7 +13,7 @@ Api RoadMap
 - [ ] Iiming Functions like SetTimeOut and SetInterval
 - [ ] XMLHttpRequest interface
 - [ ] Canvas Interface
-- [ ] WebGL 1 (GLES2) interface
+- [ ] WebGL 1 (GLEs2) interface
 - [ ] WebGL 2 (GLEs3) interface
 - [ ] HTML5 Gamepad Api
 - [ ] Canvas input events (Touch, Mouse, Keyboard)
