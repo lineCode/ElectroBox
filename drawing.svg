@@ -26,26 +26,22 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="647.67875"
-     inkscape:cy="963.93253"
+     inkscape:cx="296.48212"
+     inkscape:cy="744.4101"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="694"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-width="1440"
+     inkscape:window-height="874"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="916.20837,702.05603"
        orientation="1,0"
        id="guide3375" />
-    <sodipodi:guide
-       position="916.20837,584.87834"
-       orientation="0,1"
-       id="guide3377" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -55,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,33 +59,97 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#00588a;fill-opacity:1;stroke:none"
-       id="rect4204"
-       width="634.70795"
-       height="268.9856"
-       x="-33.384304"
-       y="60.058098" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-opacity:1"
-       id="path3390"
-       d="M 104.04892,97.068986 A 105.71299,105.71299 0 0 0 -1.664453,202.78236 105.71299,105.71299 0 0 0 104.04892,308.49572 a 105.71299,105.71299 0 0 0 71.67582,-28.1886 l -24.04838,-26.05141 a 70.193426,70.193426 0 0 1 -47.62744,18.71934 70.193426,70.193426 0 0 1 -70.194333,-70.19269 70.193426,70.193426 0 0 1 70.194333,-70.19434 70.193426,70.193426 0 0 1 47.55221,18.68012 L 175.6838,125.17746 A 105.71299,105.71299 0 0 0 104.04892,97.068986 Z" />
-    <path
-       d="m 96.814217,124.33533 a 78.446748,78.446748 0 0 0 -78.44703,78.44703 78.446748,78.446748 0 0 0 78.44703,78.44702 78.446748,78.446748 0 0 0 53.188683,-20.918 l -17.84565,-19.33204 a 52.088641,52.088641 0 0 1 -35.343033,13.89111 52.088641,52.088641 0 0 1 -52.08932,-52.08809 52.088641,52.088641 0 0 1 52.08932,-52.08932 52.088641,52.088641 0 0 1 35.287203,13.86202 l 17.8711,-19.3612 A 78.446748,78.446748 0 0 0 96.814217,124.33533 Z"
-       id="path4206"
-       style="fill:#ffffff;fill-opacity:1;stroke:#00588a;stroke-width:3.78299999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:84.64582825px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="142.71866"
-       y="226.14912"
-       id="text4208"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4210"
-         x="142.71866"
-         y="226.14912">obalt Core</tspan></text>
+    <g
+       id="g4262"
+       transform="translate(7.1428571,-7.1428571)">
+      <rect
+         y="82.915237"
+         x="-1.9557353"
+         height="256.12848"
+         width="734.70789"
+         id="rect4204"
+         style="fill:#0077d6;fill-opacity:1;stroke:none" />
+      <g
+         id="g4237">
+        <g
+           id="g4165"
+           transform="translate(48.571428,7.142857)">
+          <path
+             id="path3390"
+             d="M 104.04883,97.068359 A 105.71299,105.71299 0 0 0 -1.6640625,202.7832 105.71299,105.71299 0 0 0 104.04883,308.49609 105.71299,105.71299 0 0 0 175.72461,280.30664 l -24.04883,-26.05078 a 70.193426,70.193426 0 0 1 -2.2832,1.91406 l 5.35742,5.80274 a 80.713079,80.713079 0 0 1 -54.72656,21.52343 80.713079,80.713079 0 0 1 -80.712893,-80.71289 80.713079,80.713079 0 0 1 80.712893,-80.71484 80.713079,80.713079 0 0 1 54.69531,21.46094 l -5.33398,5.77734 a 70.193426,70.193426 0 0 1 2.21679,1.96094 l 24.08203,-26.08985 A 105.71299,105.71299 0 0 0 104.04883,97.068359 Z"
+             style="fill:#ffffff;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text4208"
+             y="226.14912"
+             x="142.71866"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.64625549px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="226.14912"
+               x="142.71866"
+               id="tspan4210"
+               sodipodi:role="line">obalt Core</tspan></text>
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1"
+             id="path4157"
+             d="m 98.816747,129.56899 a 73.213106,73.213106 0 0 0 -73.213367,73.21337 73.213106,73.213106 0 0 0 73.213367,73.21336 73.213106,73.213106 0 0 0 49.640173,-19.52243 l -16.65507,-18.04231 a 48.613503,48.613503 0 0 1 -32.985103,12.96437 48.613503,48.613503 0 0 1 -48.614126,-48.61299 48.613503,48.613503 0 0 1 48.614126,-48.61414 48.613503,48.613503 0 0 1 32.932993,12.9372 l 16.67882,-18.06949 A 73.213106,73.213106 0 0 0 98.816747,129.56899 Z" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4208-5"
+           y="271.73218"
+           x="275.77756"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.63241768px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="271.73218"
+             x="275.77756"
+             id="tspan4210-2"
+             sodipodi:role="line">learn once, write anywhere</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4246"
+       transform="translate(0.28571414,295.71429)"
+       style="fill:#0077d6;fill-opacity:1">
+      <g
+         id="g4248"
+         transform="translate(48.571428,7.142857)"
+         style="fill:#0077d6;fill-opacity:1">
+        <path
+           id="path4250"
+           d="M 104.04883,97.068359 A 105.71299,105.71299 0 0 0 -1.6640625,202.7832 105.71299,105.71299 0 0 0 104.04883,308.49609 105.71299,105.71299 0 0 0 175.72461,280.30664 l -24.04883,-26.05078 a 70.193426,70.193426 0 0 1 -2.2832,1.91406 l 5.35742,5.80274 a 80.713079,80.713079 0 0 1 -54.72656,21.52343 80.713079,80.713079 0 0 1 -80.712893,-80.71289 80.713079,80.713079 0 0 1 80.712893,-80.71484 80.713079,80.713079 0 0 1 54.69531,21.46094 l -5.33398,5.77734 a 70.193426,70.193426 0 0 1 2.21679,1.96094 l 24.08203,-26.08985 A 105.71299,105.71299 0 0 0 104.04883,97.068359 Z"
+           style="fill:#0077d6;fill-opacity:1"
+           inkscape:connector-curvature="0" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4252"
+           y="226.14912"
+           x="142.71866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.64625549px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0077d6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="226.14912"
+             x="142.71866"
+             id="tspan4254"
+             sodipodi:role="line">obalt Core</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#0077d6;fill-opacity:1"
+           id="path4256"
+           d="m 98.816747,129.56899 a 73.213106,73.213106 0 0 0 -73.213367,73.21337 73.213106,73.213106 0 0 0 73.213367,73.21336 73.213106,73.213106 0 0 0 49.640173,-19.52243 l -16.65507,-18.04231 a 48.613503,48.613503 0 0 1 -32.985103,12.96437 48.613503,48.613503 0 0 1 -48.614126,-48.61299 48.613503,48.613503 0 0 1 48.614126,-48.61414 48.613503,48.613503 0 0 1 32.932993,12.9372 l 16.67882,-18.06949 A 73.213106,73.213106 0 0 0 98.816747,129.56899 Z" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4258"
+         y="271.73218"
+         x="275.77756"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.63241768px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0077d6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="271.73218"
+           x="275.77756"
+           id="tspan4260"
+           sodipodi:role="line">learn once, write anywhere</tspan></text>
+    </g>
   </g>
 </svg>
