@@ -2,7 +2,7 @@
 *.vcxproj.filters
 # Prerequisites
 *.d
-
+.vs/
 # Compiled Object files
 *.slo
 *.lo
