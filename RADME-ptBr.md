@@ -11,7 +11,7 @@ Objetivos de suporte a plataforma
 
 Objetivos de Implementação da API central multiplataforma.
 ---
-- [ ] Funções de tempo SetTimeOut, SetInterval, requestAnimationFrame
+- [ ] Funções de tempo {set, clear}{Timeout, Interval, Immediate}, {request, cancel}AnimationFrame
 - [ ] XMLHttpRequest interface
 - [ ] Interface de renderização Canvas2D (CanvasRenderingContext2D)
 - [ ] WebGL 1 (GLEs2) interface (WebGLRenderingContext)
