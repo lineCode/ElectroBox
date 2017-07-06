@@ -13,7 +13,7 @@ Platform RoadMap
 
 Api RoadMap
 ---
-- [ ] Iiming Functions like SetTimeOut, SetInterval, requestAnimationFrame
+- [ ] Timing Functions {set, clear}{Timeout, Interval, Immediate}, {request, cancel}AnimationFrame
 - [ ] XMLHttpRequest interface
 - [ ] 2D Canvas Interface (CanvasRenderingContext2D)
 - [ ] WebGL 1 (GLEs2) interface (WebGLRenderingContext)
