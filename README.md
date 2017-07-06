@@ -4,16 +4,17 @@ CobaltCore is a project that allows you to create multimedia applications on nat
 
 Platform RoadMap
 ---
-- [ ] Implement Android Platform(V8 Engine)
+- [ ] Implement CrossPlatform Core Api
 - [ ] Implement Desktop Platform(V8 Engine)
+- [ ] Implement Android Platform(V8 Engine)
 - [ ] Implement IOS Platform(JavaScriptCore Engine)
 
 Api RoadMap
 ---
-- [ ] Iiming Functions like SetTimeOut and SetInterval
+- [ ] Iiming Functions like SetTimeOut, SetInterval, requestAnimationFrame
 - [ ] XMLHttpRequest interface
-- [ ] Canvas Interface
-- [ ] WebGL 1 (GLEs2) interface
-- [ ] WebGL 2 (GLEs3) interface
+- [ ] 2D Canvas Interface (CanvasRenderingContext2D)
+- [ ] WebGL 1 (GLEs2) interface (WebGLRenderingContext)
+- [ ] WebGL 2 (GLEs3) interface (WebGL2RenderingContext)
 - [ ] HTML5 Gamepad Api
 - [ ] Canvas input events (Touch, Mouse, Keyboard)
