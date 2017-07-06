@@ -18,3 +18,18 @@ Objetivos de Implementação da API central multiplataforma.
 - [ ] WebGL 2 (GLEs3) interface (WebGL2RenderingContext)
 - [ ] Api HTML de suporte a joysticks
 - [ ] Eventos de interação com o canvas (Touch, Mouse, Keyboard)
+
+NativeModule RoadMap (ex: import {Camera} from 'native-module';)
+- [ ] Acelerometer
+- [ ] Camera
+- [ ] Capture
+- [ ] Compass
+- [ ] Connection
+- [ ] Contacts
+- [ ] Device
+- [ ] File
+- [ ] Geolocalization
+- [ ] Media
+- [ ] Notification
+- [ ] Storage
+- [ ] Native Plugins (ex: import {BarcodeScanner} from 'native-plugins')
