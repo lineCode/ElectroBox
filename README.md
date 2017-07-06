@@ -21,7 +21,7 @@ Api RoadMap
 - [ ] HTML5 Gamepad Api
 - [ ] Canvas input events (Touch, Mouse, Keyboard)
 
-NativeModule RoadMap (ex: import {Camera} from 'native-module';)
+NativeModule RoadMap (ex: import {Camera} from 'native-module')
 - [ ] Acelerometer
 - [ ] Camera
 - [ ] Capture
@@ -34,4 +34,4 @@ NativeModule RoadMap (ex: import {Camera} from 'native-module';)
 - [ ] Media
 - [ ] Notification
 - [ ] Storage
-- [ ] Plugins
+- [ ] Native Plugins (ex: import {BarcodeScanner} from 'native-plugins')
