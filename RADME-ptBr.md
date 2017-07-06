@@ -19,7 +19,7 @@ Objetivos de Implementação da API central multiplataforma.
 - [ ] Api HTML de suporte a joysticks
 - [ ] Eventos de interação com o canvas (Touch, Mouse, Keyboard)
 
-NativeModule RoadMap (ex: import {Camera} from 'native-module';)
+NativeModule RoadMap (ex: import {Camera} from 'native-module')
 - [ ] Acelerometer
 - [ ] Camera
 - [ ] Capture
