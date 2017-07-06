@@ -20,3 +20,18 @@ Api RoadMap
 - [ ] WebGL 2 (GLEs3) interface (WebGL2RenderingContext)
 - [ ] HTML5 Gamepad Api
 - [ ] Canvas input events (Touch, Mouse, Keyboard)
+
+NativeModule RoadMap (ex: import {Camera} from 'native-module';)
+- [ ] Acelerometer
+- [ ] Camera
+- [ ] Capture
+- [ ] Compass
+- [ ] Connection
+- [ ] Contacts
+- [ ] Device
+- [ ] File
+- [ ] Geolocalization
+- [ ] Media
+- [ ] Notification
+- [ ] Storage
+- [ ] Plugins
