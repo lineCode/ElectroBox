@@ -157,7 +157,7 @@
     <ClInclude Include="..\include\WebGLRenderingContextConstants.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="index.js" />
+    <None Include="x64\Debug\index.js" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

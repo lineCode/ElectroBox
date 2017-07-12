@@ -78,6 +78,6 @@ int main(int argc, char *argv[]) {
     v8::V8::ShutdownPlatform();
     delete platform;
     delete create_params.array_buffer_allocator;
-	system("pause");
+	//system("pause");
     return result;
 }

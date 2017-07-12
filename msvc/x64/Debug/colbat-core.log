@@ -1,8 +1,4 @@
-﻿  v8_utils.cpp
-d:\projects\colbalt-core\src\v8_utils.cpp(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
-  main.cpp
-  Generating Code...
-d:\projects\colbalt-core\src\main.cpp(46): warning C4715: 'RunMain': not all control paths return a value
+﻿  main.cpp
+d:\projects\colbalt-core\src\main.cpp(47): warning C4715: 'RunMain': not all control paths return a value
   colbat-core.vcxproj -> D:\projects\colbalt-core\msvc\x64\Debug\colbat-core.exe
   colbat-core.vcxproj -> D:\projects\colbalt-core\msvc\x64\Debug\colbat-core.pdb (Full PDB)
