@@ -2,7 +2,7 @@
 #include <sstream>
 #include <string>
 #include <v8.h>
-#include <libplatform\libplatform.h>
+#include <libplatform/libplatform.h>
 #include "v8_utils.h"
 
 

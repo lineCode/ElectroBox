@@ -5,7 +5,7 @@
 #include <sstream>
 #include <string>
 #include <v8.h>
-#include <libplatform\libplatform.h>
+#include <libplatform/libplatform.h>
 
 
 const char *v8u_to_cstr(const v8::String::Utf8Value &value);
