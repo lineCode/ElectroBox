@@ -147,11 +147,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\src\main.cpp" />
+    <ClCompile Include="..\src\V8Manager.cpp" />
+    <ClCompile Include="..\src\v8_binding_console.cpp" />
     <ClCompile Include="..\src\v8_utils.cpp" />
     <ClCompile Include="..\src\WebGLRenderingContext.cpp" />
     <ClCompile Include="..\src\WebGLRenderingContextConstants.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\include\V8Manager.h" />
+    <ClInclude Include="..\include\v8_bindings.h" />
     <ClInclude Include="..\include\v8_utils.h" />
     <ClInclude Include="..\include\WebGLRenderingContext.h" />
     <ClInclude Include="..\include\WebGLRenderingContextConstants.h" />
