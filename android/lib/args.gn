@@ -1,0 +1,13 @@
+is_debug = false
+target_cpu = "arm"
+target_os = "android"
+v8_android_log_stdout = true
+is_official_build = true
+android_ndk_version = 14
+v8_static_library = true
+v8_target_cpu="arm"
+is_component_build = false
+android_ndk_major_version=14
+icu_use_data_file=false
+v8_use_snapshot=false
+v8_static_library=true
