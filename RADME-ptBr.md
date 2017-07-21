@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/luciancaetano/colbalt-core/master/media/logo.png" width="500">
 
-O CobaltCore é um projeto que permite criar aplicativos multimídia em plataformas nativas usando uma experiência consistente baseada em Javascript, Canvas e Webgl. O foco da CobaltCore é a eficiência no desenvolvimento de aplicações multimídia implementando web apis que você já conhece e as ama ❤ - aprenda uma vez, escreva em qualquer lugar.
+O ElectroBox é um projeto que permite criar aplicativos multimídia em plataformas nativas usando uma experiência consistente baseada em Javascript, Canvas e Webgl. O foco da ElectroBox é a eficiência no desenvolvimento de aplicações multimídia implementando web apis que você já conhece e as ama ❤ - aprenda uma vez, escreva em qualquer lugar.
 
 Objetivos de suporte a plataforma
 ---
